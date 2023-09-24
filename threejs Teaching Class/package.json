@@ -1,0 +1,19 @@
+{
+  "name": "threejs-teaching-class",
+  "version": "0.0.0",
+  "description": "threejs Teaching Class",
+  "main": "server.js",
+  "author": "",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "three": "^0.149.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
